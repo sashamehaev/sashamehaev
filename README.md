@@ -2,11 +2,8 @@
 
 **Мой стек**
 * React.js
-* React-router
-* React-hooks
 * Webpack
 * Javascript
-* ООП
 * Адаптивная верстка
 * БЭМ
 * HTML
