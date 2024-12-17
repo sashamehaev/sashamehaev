@@ -1,13 +1,13 @@
-## Привет, я начинающий фронтенд разработчик
+## Привет, я начинающий Python разработчик
 
 **Мой стек**
-* React.js
-* Webpack
-* Javascript
-* Адаптивная верстка
-* БЭМ
+* Django Rest Framework
+* SQLite
+* Pytest
+* ООП
 * HTML
 * CSS
+* JavaScript
 
 **Статистика**
 
