@@ -4,7 +4,6 @@
 * Django Rest Framework
 * SQLite
 * Pytest
-* ООП
 * HTML
 * CSS
 * JavaScript
