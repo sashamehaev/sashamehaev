@@ -2,11 +2,8 @@
 
 **Мой стек**
 * Django Rest Framework
-* SQLite
 * Pytest
-* HTML
-* CSS
-* JavaScript
+* SQLite
 
 **Статистика**
 
