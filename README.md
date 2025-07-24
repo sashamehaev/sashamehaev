@@ -2,8 +2,9 @@
 
 **Мой стек**
 * Django Rest Framework
+* PostgreSQL
+* Docker
 * Pytest
-* SQLite
 
 **Статистика**
 
