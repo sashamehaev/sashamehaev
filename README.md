@@ -1,6 +1,7 @@
 ## Привет, я начинающий Python разработчик
 
 **Мой стек**
+* Python
 * Django Rest Framework
 * PostgreSQL
 * Docker
